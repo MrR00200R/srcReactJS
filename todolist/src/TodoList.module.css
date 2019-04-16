@@ -1,0 +1,13 @@
+section {
+  padding: 4px;
+}
+li {
+  list-style: none;
+  padding: 4px;
+}
+span {
+  margin-left: 12px;
+}
+.activeButton {
+  background-color: darkgray;
+}
